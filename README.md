@@ -12,6 +12,8 @@
 
 [PersonGroupOperations Class](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-face/azure.cognitiveservices.vision.face.operations.persongroupoperations?view=azure-python-preview)
 
+[FaceRectangle Class](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-face/azure.cognitiveservices.vision.face.models.facerectangle?view=azure-python-preview)
+
 ### Lecture
 
 [Recognition model](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model)
